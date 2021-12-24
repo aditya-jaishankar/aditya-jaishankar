@@ -1,5 +1,6 @@
-### Hi, I'm Adi Jaishankar 
-### a 
+### Hi, I'm Adi Jaishankar
+I'm currently a Senior Data Scientist at The New York times
+ 
 
 <!--
 [A lot of inspirations was taken from this article](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)
