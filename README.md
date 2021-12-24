@@ -1,5 +1,5 @@
-### Hi, I'm Adi Jaishankar
-I'm currently a Senior Data Scientist at The New York times
+### Hi, I'm Adi Jaishankar! 👋 
+I'm currently a Senior Data Scientist at The New York times, working on a variety of (semi)-supervised learning, time series analysis and NLP tasks. You will find my resume [here](https://docs.google.com/document/d/1APPU9pgA7UwBVO37dKMm-wCLa5rVlWcDW3QGAGulKXk/preview?format=pdf). 
  
 
 <!--
