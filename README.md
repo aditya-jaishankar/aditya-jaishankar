@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi, I'm Adi Jaishankar 
+### a 
 
 <!--
+[A lot of inspirations was taken from this article](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)
 **aditya-jaishankar/aditya-jaishankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
